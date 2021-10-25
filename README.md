@@ -1,6 +1,6 @@
 # iHome
 
-iHome is a mockup of an architecture company made in Bootstrap 5.
+iHome is a mockup of an architecture company made in Bootstrap 5 with mobile first workflow.
 
 - Live Site URL: [iHome](https://brunoia.github.io/ihome/)
 
